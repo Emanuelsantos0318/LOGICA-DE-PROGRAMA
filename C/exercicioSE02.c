@@ -7,7 +7,7 @@ int main(){
     printf("Digite um numero:");
     scanf("%i", &num);
 
-    if (num = 10) {
+    if (num == 10) {
         printf("Numero igual a 10");
     
     }else if (num > 10) {
